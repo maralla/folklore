@@ -1,0 +1,4 @@
+folklore-config
+folklore-thrift
+thriftpy>=0.3.9
+gevent>=1.2.1
