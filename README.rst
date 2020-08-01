@@ -1,5 +1,5 @@
-Folklore: An elegant thrift service development framework
-=========================================================
+Folklore: Elegant thrift service development framework
+======================================================
 
 .. image:: https://travis-ci.org/maralla/folklore.svg?branch=master
     :target: https://travis-ci.org/maralla/folklore
@@ -19,7 +19,7 @@ Install
 Example
 -------
 
-To define a simple app:
+To define an app:
 
 .. code:: python
 

@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='folklore',
-    version='0.1.8',
+    version='0.2.0',
     description='An elegant thrift service development framework',
     long_description=open("README.rst").read(),
     author='maralla',
